@@ -19,6 +19,6 @@ ___
 
 ## Support de cours
 
-* [Wiki](./wiki)
+* [Wiki](/wiki)
 
 ___
