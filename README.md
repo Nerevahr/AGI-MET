@@ -19,6 +19,6 @@ ___
 
 ## Support de cours
 
-* [Wiki](https://github.com/POEC-20-05/wiki)
+* [Wiki](./wiki)
 
 ___
