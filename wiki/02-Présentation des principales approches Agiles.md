@@ -60,7 +60,7 @@ ___
 
 ## 📑 Kanban
 
-Kanban (étiquette en Japonais) n'est pas un cadre de travail mais une méthode de visualisation du travail utilisé par la pluspart des méthodes agiles, l'on retrouve à l'inverse le diagramm de gantt.
+Kanban (étiquette en Japonais) n'est pas un cadre de travail mais une méthode de visualisation du travail utilisé par la plupart des méthodes agiles, l'on retrouve à l'inverse le diagramme de gantt.
 
 ![image ](https://raw.githubusercontent.com/POEC-20-05/AGI-MET/master/wiki/resources/02/05-Kanban.jpg)
 
@@ -80,13 +80,13 @@ Le lean (maigre) provient des industries automobiles Japonaise et utilise une ap
 
 ![image ](https://raw.githubusercontent.com/POEC-20-05/AGI-MET/master/wiki/resources/02/08-Lean.jpg)
 
-Un managment Lean peut être complémentaire à de l'agilité mais s'impose quand le volume de variation est faible.
+Un management Lean peut être complémentaire à de l'agilité mais s'impose quand le volume de variation est faible.
 
 ___
 
 ## 📑 Agilité et DevOps
 
-Le DevOps vise à unifier le développement logiciel (dev) et l'administation des infrastructures (ops). Une équipe doit viser des compétences cross fonctionnels pour atteindre cet objectif et l'agilité propose ces principes.
+Le DevOps vise à unifier le développement logiciel (dev) et l'administration des infrastructures (ops). Une équipe doit viser des compétences cross fonctionnels pour atteindre cet objectif et l'agilité propose ces principes.
 
 ![image ](https://raw.githubusercontent.com/POEC-20-05/AGI-MET/master/wiki/resources/02/09-Agile-devOps.jpg)
 

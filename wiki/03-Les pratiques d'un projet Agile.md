@@ -53,7 +53,7 @@ ___
 
 ## 👨🏻‍💻 Manipulation
 
-Par groupes, utiliser la **Product Vision Box** et la **Value Proposition** pour partager une vision et la valeur d'un projet. **Le projet doit être une application web, mobile ou les deux** de petite taille. Des projets seront séléctionnés pour les prochaines manipulations, en fonction de leur faisabilité **ils peuvent se réaliser dans la suite de la formation**.
+Par groupes, utiliser la **Product Vision Box** et la **Value Proposition** pour partager une vision et la valeur d'un projet. **Le projet doit être une application web, mobile ou les deux** de petite taille. Des projets seront sélectionnés pour les prochaines manipulations, en fonction de leur faisabilité **ils peuvent se réaliser dans la suite de la formation**.
 
 ___
 
@@ -78,11 +78,11 @@ Lien entre client et équipe, définit le produit. Il est le seul à modifier le
 
 ### 🏷️ **Scrum Master**
 
-Aide les membre de l'équipe dans leur compréhension de la qualité de leur intéractions. Le Scrum Master ne forme pas les équipe mais peut demander qu'elles se reforment différement.
+Aide les membres de l'équipe dans leur compréhension de la qualité de leurs interactions. Le Scrum Master ne forme pas les équipe mais peut demander qu'elles se reforment différemment.
 
 ### 🏷️ **Development team**
 
-Equipe de 3 à 9 personnes en charge du développement. L'équipe doit se former spontanement en gardant à l'esprit que chaque membre doit se compléter, leur objectif est d'être cross fonctionnel. Scrum ne reconnait pas  d'équipe dans l'équipe ou de spécificité.
+Equipe de 3 à 9 personnes en charge du développement. L'équipe doit se former spontanément en gardant à l'esprit que chaque membre doit se compléter, leur objectif est d'être cross fonctionnel. Scrum ne reconnaît pas  d'équipe dans l'équipe ou de spécificité.
 
 ___
 
@@ -116,7 +116,7 @@ Une histoire utilisateur formate la demande, elle doit avoir au minimum un **rô
 
 ![image](https://raw.githubusercontent.com/POEC-20-05/AGI-MET/master/wiki/resources/03/07-User-Story.jpg)
 
-Concernant la **priorité des histoires utilisateur** dans le backlog, elle repose uniquement sur le responsable produit. Il est une bonne pratique de rajouter une valeur, une estimation de temps et ainsi d'avoir un indicateur de retour sur inverstissement pour prioriser ces items.
+Concernant la **priorité des histoires utilisateur** dans le backlog, elle repose uniquement sur le responsable produit. Il est une bonne pratique de rajouter une valeur, une estimation de temps et ainsi d'avoir un indicateur de retour sur investissement pour prioriser ces items.
 
 ___
 
@@ -145,7 +145,7 @@ La planning pocker n'est pas un évènement officiel, il permet collégialement 
 * Une histoire utilisateur est présentée
 * Chacun place une carte face contre table
 * Chacun retourne sa carte
-* Les extrems exposent leur point de vue
+* Les extrêmes exposent leur point de vue
 * Une seconde partie est lancée
 * La moyenne des unités est prise en compte
 
@@ -161,13 +161,13 @@ ___
 
 ## 📑 Dette technique
 
-Pendant l'accomplissement de taches vous pouvez collecter une dette technique. La dette technique représente le coût supplémentaire causé par le choix d'une mauvaise solution, souvent plus simple qu'une autre mais qui n'anticipe pas son impacte.
+Pendant l'accomplissement de tâches vous pouvez collecter une dette technique. La dette technique représente le coût supplémentaire causé par le choix d'une mauvaise solution, souvent plus simple qu'une autre mais qui n'anticipe pas son impacte.
 
 ![image](https://raw.githubusercontent.com/POEC-20-05/AGI-MET/master/wiki/resources/03/10-Debt.jpg)
 
 ### 🏷️ **Contractualisation**
 
-Vous pouvez délibérement collecter une dette technique dans un seul cas de figure.
+Vous pouvez délibérément collecter une dette technique dans un seul cas de figure.
 
 ![image](https://raw.githubusercontent.com/POEC-20-05/AGI-MET/master/wiki/resources/03/11-When.jpg)
 
@@ -177,7 +177,7 @@ Une fois une dette technique collectée, il faut la solder quand le complément 
 
 ![image](https://raw.githubusercontent.com/POEC-20-05/AGI-MET/master/wiki/resources/03/12-Refactoring.jpg)
 
-Ne pas refactoriser aura un impact sur le développement futur du projet. Il est possible que cette étap ne soit pas agréable.
+Ne pas refactoriser aura un impact sur le développement futur du projet. Il est possible que cette étape ne soit pas agréable.
 
 ![image](https://raw.githubusercontent.com/POEC-20-05/AGI-MET/master/wiki/resources/03/13-Why.jpg)
 
@@ -185,7 +185,7 @@ ___
 
 ## 📑 Suivi et radiation d'information (burndown et burnup)
 
-Pour suivre l'accomplissement de taches vous pouvez utiliser des graphiques d'avancement du projet. Ce n'est pas un outil de surveillance, il appartient à l'équipe de développement et se calcul automatiquement en fonction des outils utilisés, sinon chacun est responsable de le maintenir.
+Pour suivre l'accomplissement de tâches vous pouvez utiliser des graphiques d'avancement du projet. Ce n'est pas un outil de surveillance, il appartient à l'équipe de développement et ce calcul automatiquement en fonction des outils utilisés, sinon chacun est responsable de le maintenir.
 
 🔗 [@see Understanding Burndown Charts](https://zepel.io/agile/reports/burndown/)
 
@@ -200,7 +200,7 @@ La review et la retrospective sont des évènements concluant la session de trav
 ### 🏷️ **Review**
 
 Une review dure entre 3 et 4 heures.
-Lors de la review le product owner et les stakeholders sont présents pour la première fois. La Scrum team fait une démonstration de l'incément produit pendant 30 minutes et fait le point sur ce qui est fait ou pas.
+Lors de la review le product owner et les stakeholders sont présents pour la première fois. La Scrum team fait une démonstration de l'incrément produit pendant 30 minutes et fait le point sur ce qui est fait ou pas.
 
 ![image](https://raw.githubusercontent.com/POEC-20-05/AGI-MET/master/wiki/resources/03/16-Review.jpg)
 
@@ -222,6 +222,6 @@ ___
 
 Pour prendre des décisions de groupes rapidement lors des différents évènements. Le vote par objection est une solution efficace.
 
-Chaque membre du groupe notre l'idée, plus la note est forte et plus il est contre. L'idée retenue est celle qui possède le moins d'objection. Cela évite le votre directe plus brutale.
+Chaque membre du groupe notre l'idée, plus la note est forte et plus il est contre. L'idée retenue est celle qui possède le moins d'objection. Cela évite le vote directe plus brutale.
 
 ___

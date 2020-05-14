@@ -18,7 +18,7 @@ Les méthodes agiles sont des groupes de pratiques de pilotage et de réalisatio
 
 🔗 [@see agilemanifesto](https://agilemanifesto.org/)
 
-En février 2001, aux États-Unis, dix-sept spécialistes du développement logiciel se sont réunis pour débattre du thème unificateur de leurs méthodes respectives, jusqu'alors appelées sans consensus méthodes lights. 
+En février 2001, aux États-Unis, dix-sept spécialistes du développement logiciel se sont réunis pour débattre le thème unificateur de leurs méthodes respectives, jusqu'alors appelées sans consensus méthodes lights. 
 
 #### 4 valeurs
 
@@ -70,7 +70,7 @@ ___
 
 ### 🏷️ **Complexité**
 
-La culture agile réside dans l'implémentation naturelle des valeurs et principes associés. Devenir agile c'est composer avec la compléxité en la mettant à l'echelle désirée.
+La culture agile réside dans l'implémentation naturelle des valeurs et principes associés. Devenir agile c'est composer avec la complexité en la mettant à l'échelle désirée.
 
 ![image](https://raw.githubusercontent.com/POEC-20-05/AGI-MET/master/wiki/resources/01/03-Objective.jpg)
 
@@ -80,7 +80,7 @@ ___
 
 ### 🏷️ **Iron**
 
-Dans une approche agile qui implémente la valeur *close cooperation*, le scope (la demande) est l'élément variable qui est adapté. Dans une approche en cascade ou en V, le scope est fixé et la variable d'ajustement est la qualité.
+Dans une approche agile qui implémente la valeur *close coopération*, le scope (la demande) est l'élément variable qui est adapté. Dans une approche en cascade ou en V, le scope est fixé et la variable d'ajustement est la qualité.
 
 ![image](https://raw.githubusercontent.com/POEC-20-05/AGI-MET/master/wiki/resources/01/04-Predictive-adaptative.jpg)
 
@@ -98,7 +98,7 @@ Issue du secteur industriel, l'approche linéaire est complétée par une mise e
 
 ### 🏷️ **Agile**
 
-Réprésentée avec une cercle proposant une approche itérative, chaque session de travail possède une durée fixe et n'a comme objectif que de fournir un increment, une étape vers le produit livrable. 
+Réprésentée avec un cercle proposant une approche itérative, chaque session de travail possède une durée fixe et n'a comme objectif que de fournir un increment, une étape vers le produit livrable. 
 
 *Il faudra mettre cette itération dans le contexte de sa pratique.*
 
