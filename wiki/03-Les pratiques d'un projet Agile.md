@@ -122,7 +122,7 @@ ___
 
 ## 👨🏻‍💻 Manipulation
 
-Pour chaque projet, **aider le responsable produit à rédiger et prioriser les histoires utilisateur** du projet pour constituer le backlog produit. **Le backlog produit doit se trouver sur github**, créer une **organisation**, un **repository** puis un **projet** pour ce repository. Inviter les membres de l'équipe dans l'organisation.
+Pour chaque projet, **aider le responsable produit à rédiger et prioriser les histoires utilisateur** du projet pour constituer le backlog produit. **Le backlog produit doit se trouver sur github dans l'organisation de notre session**, créer  un **repository** puis un **projet** pour ce repository.
 
 ___
 
