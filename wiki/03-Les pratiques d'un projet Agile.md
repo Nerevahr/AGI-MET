@@ -26,7 +26,7 @@ Pour partager sa vision il possède plusieurs formats:
 * Prune the Product Tree
 * Lean Canvas
 
-![image](./resources/03/01-Vision.jpg)
+![image](https://raw.githubusercontent.com/POEC-20-05/AGI-MET/master/wiki/resources/03/01-Vision.jpg)
 
 La Product Vision box est ludique, elle représente au format boite de céréales le produit.
 
@@ -47,7 +47,7 @@ La Product Vision box est ludique, elle représente au format boite de céréale
 
 Pour représente la valeur la **Value Proposition** peut être utilisée
 
-![image](./resources/03/03-Proposition-Value.jpg)
+![image](https://raw.githubusercontent.com/POEC-20-05/AGI-MET/master/wiki/resources/03/03-Proposition-Value.jpg)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 La taille d'une équipe varie du cadra agile, nous utiliserons SCRUM.
 
-![image](./resources/03/04-Actors.jpg)
+![image](https://raw.githubusercontent.com/POEC-20-05/AGI-MET/master/wiki/resources/03/04-Actors.jpg)
 
 ### 🏷️ **Stake Holders**
 
@@ -96,7 +96,7 @@ ___
 
 A chaque fabrication d'artifacts et chaque évènement, nous préciserons la responsabilité de chacun.
 
-![image](./resources/03/05-Interactions.jpg)
+![image](https://raw.githubusercontent.com/POEC-20-05/AGI-MET/master/wiki/resources/03/05-Interactions.jpg)
 
 ___
 
@@ -108,13 +108,13 @@ Le product backlog regroupe l'ensemble des histoires utilisateurs qui forment la
 
 C'est la base pour pouvoir commencer à planifier une session de travail. Seul le **Product Owner** est responsable d'effectuer des actions sur le Product Backlog. Il peut être informatisé ou non.
 
-![image](./resources/03/06-Product-Backlog.jpg)
+![image](https://raw.githubusercontent.com/POEC-20-05/AGI-MET/master/wiki/resources/03/06-Product-Backlog.jpg)
 
 ### 🏷️ **User story**
 
 Une histoire utilisateur formate la demande, elle doit avoir au minimum un **rôle**, une **tache** et un **objectif**.
 
-![image](./resources/03/07-User-Story.jpg)
+![image](https://raw.githubusercontent.com/POEC-20-05/AGI-MET/master/wiki/resources/03/07-User-Story.jpg)
 
 Concernant la **priorité des histoires utilisateur** dans le backlog, elle repose uniquement sur le responsable produit. Il est une bonne pratique de rajouter une valeur, une estimation de temps et ainsi d'avoir un indicateur de retour sur inverstissement pour prioriser ces items.
 
@@ -130,9 +130,9 @@ ___
 
 La DoD correspond à tous les critères d'acceptation qu'une tache ou une histoire utilisateur doit valider pour qu'elle soit considérée comme finie. La Dod appartient à l'entreprise et concerne tous les projets.
 
-![image](./resources/03/08-Dod.jpg)
+![image](https://raw.githubusercontent.com/POEC-20-05/AGI-MET/master/wiki/resources/03/08-Dod.jpg)
 
-![image](./resources/03/09-Dod-Example.jpg)
+![image](https://raw.githubusercontent.com/POEC-20-05/AGI-MET/master/wiki/resources/03/09-Dod-Example.jpg)
 
 ___
 
@@ -163,23 +163,23 @@ ___
 
 Pendant l'accomplissement de taches vous pouvez collecter une dette technique. La dette technique représente le coût supplémentaire causé par le choix d'une mauvaise solution, souvent plus simple qu'une autre mais qui n'anticipe pas son impacte.
 
-![image](./resources/03/10-Debt.jpg)
+![image](https://raw.githubusercontent.com/POEC-20-05/AGI-MET/master/wiki/resources/03/10-Debt.jpg)
 
 ### 🏷️ **Contractualisation**
 
 Vous pouvez délibérement collecter une dette technique dans un seul cas de figure.
 
-![image](./resources/03/11-When.jpg)
+![image](https://raw.githubusercontent.com/POEC-20-05/AGI-MET/master/wiki/resources/03/11-When.jpg)
 
 ### 🏷️ **Solde**
 
 Une fois une dette technique collectée, il faut la solder quand le complément d'information est donné. C'est l'étape du refactoring.
 
-![image](./resources/03/12-Refactoring.jpg)
+![image](https://raw.githubusercontent.com/POEC-20-05/AGI-MET/master/wiki/resources/03/12-Refactoring.jpg)
 
 Ne pas refactoriser aura un impact sur le développement futur du projet. Il est possible que cette étap ne soit pas agréable.
 
-![image](./resources/03/13-Why.jpg)
+![image](https://raw.githubusercontent.com/POEC-20-05/AGI-MET/master/wiki/resources/03/13-Why.jpg)
 
 ___
 
@@ -189,7 +189,7 @@ Pour suivre l'accomplissement de taches vous pouvez utiliser des graphiques d'av
 
 🔗 [@see Understanding Burndown Charts](https://zepel.io/agile/reports/burndown/)
 
-![image](./resources/03/15-Burn-down-and-up.jpg)
+![image](https://raw.githubusercontent.com/POEC-20-05/AGI-MET/master/wiki/resources/03/15-Burn-down-and-up.jpg)
 
 ___
 
@@ -202,7 +202,7 @@ La review et la retrospective sont des évènements concluant la session de trav
 Une review dure entre 3 et 4 heures.
 Lors de la review le product owner et les stakeholders sont présents pour la première fois. La Scrum team fait une démonstration de l'incément produit pendant 30 minutes et fait le point sur ce qui est fait ou pas.
 
-![image](./resources/03/16-Review.jpg)
+![image](https://raw.githubusercontent.com/POEC-20-05/AGI-MET/master/wiki/resources/03/16-Review.jpg)
 
 L'objectif d'une review et de permettre la maintenance du backlog.
 
@@ -210,11 +210,11 @@ L'objectif d'une review et de permettre la maintenance du backlog.
 
 Après la review c'est la rétrospective qui se met en place. Elle ne concerne que la scrum team. Ils font le point pour définir des points d'amélioration de process pour le prochain sprint. Au moin une amélioration de process sera placée dans le product backlog.
 
-![image](./resources/03/17-Retrospective.jpg)
+![image](https://raw.githubusercontent.com/POEC-20-05/AGI-MET/master/wiki/resources/03/17-Retrospective.jpg)
 
 Un format ludique de questionnement est l'étoile de mer.
 
-![image](./resources/03/18-Star-fish.jpg)
+![image](https://raw.githubusercontent.com/POEC-20-05/AGI-MET/master/wiki/resources/03/18-Star-fish.jpg)
 
 ___
 

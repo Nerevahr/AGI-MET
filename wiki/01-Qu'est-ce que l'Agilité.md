@@ -12,7 +12,7 @@ ___
 
 Les méthodes agiles sont des groupes de pratiques de pilotage et de réalisation de projets. Elles ont pour origine le manifeste Agile, rédigé en 2001, observons ses origines.
 
-![image](./resources/01/00-Origine.jpg)
+![image](https://raw.githubusercontent.com/POEC-20-05/AGI-MET/master/wiki/resources/01/00-Origine.jpg)
 
 ### 🏷️ **Manifeste**
 
@@ -27,7 +27,7 @@ En février 2001, aux États-Unis, dix-sept spécialistes du développement logi
 * Customer collaboration *over contract negotiation*
 * Responding to change *over following a plan*
 
-![image](./resources/01/01-Values.jpg)
+![image](https://raw.githubusercontent.com/POEC-20-05/AGI-MET/master/wiki/resources/01/01-Values.jpg)
 
 #### 12 principes
 
@@ -62,7 +62,7 @@ emerge from self-organizing teams.
 to become more effective, then tunes and adjusts
 its behavior accordingly. 
 
-![image](./resources/01/02-Principes.jpg)
+![image](https://raw.githubusercontent.com/POEC-20-05/AGI-MET/master/wiki/resources/01/02-Principes.jpg)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 La culture agile réside dans l'implémentation naturelle des valeurs et principes associés. Devenir agile c'est composer avec la compléxité en la mettant à l'echelle désirée.
 
-![image](./resources/01/03-Objective.jpg)
+![image](https://raw.githubusercontent.com/POEC-20-05/AGI-MET/master/wiki/resources/01/03-Objective.jpg)
 
 ___
 
@@ -82,19 +82,19 @@ ___
 
 Dans une approche agile qui implémente la valeur *close cooperation*, le scope (la demande) est l'élément variable qui est adapté. Dans une approche en cascade ou en V, le scope est fixé et la variable d'ajustement est la qualité.
 
-![image](./resources/01/04-Predictive-adaptative.jpg)
+![image](https://raw.githubusercontent.com/POEC-20-05/AGI-MET/master/wiki/resources/01/04-Predictive-adaptative.jpg)
 
 ### 🏷️ **Waterfall**
 
 Issue du secteur de la construction, l'approche linéaire ne permet pas de maîtriser les coûts et les délais.
 
-![image](./resources/01/05-Waterfall.jpg)
+![image](https://raw.githubusercontent.com/POEC-20-05/AGI-MET/master/wiki/resources/01/05-Waterfall.jpg)
 
 ### 🏷️ **Cycle en V**
 
 Issue du secteur industriel, l'approche linéaire est complétée par une mise en relation des étapes avec des validations, elle ne permet pas de maîtriser les coûts quand le délaie est fixé.
 
-![image](./resources/01/06-Cycle-en-V.jpg)
+![image](https://raw.githubusercontent.com/POEC-20-05/AGI-MET/master/wiki/resources/01/06-Cycle-en-V.jpg)
 
 ### 🏷️ **Agile**
 
@@ -102,4 +102,4 @@ Réprésentée avec une cercle proposant une approche itérative, chaque session
 
 *Il faudra mettre cette itération dans le contexte de sa pratique.*
 
-![image](./resources/01/07-Iteratif.jpg)
+![image](https://raw.githubusercontent.com/POEC-20-05/AGI-MET/master/wiki/resources/01/07-Iteratif.jpg)
