@@ -19,6 +19,6 @@ ___
 
 ## Support de cours
 
-* [Wiki](/wiki)
+* [Wiki](https://github.com/POEC-20-05/AGI-MET/wiki)
 
 ___
